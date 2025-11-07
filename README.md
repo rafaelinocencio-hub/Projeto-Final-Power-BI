@@ -36,10 +36,3 @@ O dashboard é composto pelos seguintes elementos:
 > **Finalidade:** Mostrar a representatividade percentual de cada segmento no total das vendas.
 
 ---
-
-## 💡 Recursos Adicionais
-
-- **Medidas DAX** utilizadas:
-  ```DAX
-  Lucro Total R$ = SUM('Sheet1'[Lucro])
-  Vendas Totais R$ = SUM('Sheet1'[Vendas Líquidas])
